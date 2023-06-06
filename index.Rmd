@@ -17,15 +17,12 @@ El **Atlas Nacional de las Abejas y Derivados Apícolas** integra la informació
 
 Este sitio compila, por primera vez, tanto información que ya se encuentra disponible en publicaciones y páginas web de las Unidades del Estado que colaboran en este proyecto, y de otros estudios relacionados, como datos que dichas unidades acordaron compartir con el INEGI, y que se han analizado y procesado para presentarse en forma dinámica, siendo resultado del trabajo en conjunto del personal del Instituto Nacional de Geografía y Estadística, Coordinación General de Ganadería, investigadores, académicos y especialistas apícolas de diversas instituciones como la FESC-UNAM, FMVZ-UNAM, Comité Nacional Sistema Producto Apícola y ANMVEA A.C.
 
-
-</br>
-</br>
 </br>	
    
 ## **Justificación**  
 
 
-Actualmente existe una fuerte tendencia a realizar *Investigación Reproducible*, es decir, presentar reportes científicos o publicaciones donde los datos y el código utilizado estén disponibles para que otros puedan verificar los hallazgos, o enriquecerlos al contribuir en ellos, lo cual promueve la trasparencia y confianza en los resultados. En ese contexto, se presenta el _Atlas Nacional de las Abejas y Derivados Apícolas_, con la finalidad de tener un producto robusto y que sea punto de partida para detectar las necesidades de información sobre la apicultura, y con ello impulsar el desarrollo de esta importante actividad, de manera responsable y sustentable.
+Se presenta el _Atlas Nacional de las Abejas y Derivados Apícolas_, con la finalidad de tener un producto robusto y que sea punto de partida para detectar las necesidades de información sobre la apicultura en México, y con ello proveer de información que sea de utilidad para impulsar el desarrollo de esta importante actividad, de manera responsable y sustentable.
 
 El _Atlas Nacional de las Abejas y Derivados Apícolas_ surge de la necesidad de identificar la situación en que se encuentran estos insectos, la cual es preocupante. El informe de la [Plataforma Intergubernamental Científico-Normativa sobre Diversidad Biológica y Servicios de los Ecosistemas](pdfs/SPM_Pollination_ES.pdf){target="_blank"} de las Naciones Unidas (IPBES, por sus siglas en inglés) advierte que el 40% de los polinizadores invertebrados, en particular algunos tipos de abejas y mariposas, podrían estarse enfrentando en este momento, a un proceso de extinción.
 
