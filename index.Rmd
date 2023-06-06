@@ -15,7 +15,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 El **Atlas Nacional de las Abejas y Derivados Apícolas** integra la información existente en torno a la apicultura en México, desde la biología de las abejas y las características de la miel, hasta aspectos relacionados con la actividad económica en torno a las especies domesticadas, incluyendo la crianza, apoyos gubernamentales existentes y el volumen de producción de las entidades federativas, entre otros temas; acompañada de datos históricos sobre la apicultura.  
 
-P
+
 
 Este proyecto compila por primera vez en un mismo lugar, tanto información que ya se encuentra disponible en publicaciones y páginas web de las Unidades de Estado que colaboran en este proyecto, y de otros estudios relacionados, como datos que dichas unidades acordaron compartir con el INEGI, y que se han analizado y procesado para presentarse en forma dinámica, a efecto de ofrecer a usuarios específicos y al público en general, toda la información disponible hasta el momento en un único sitio web, con datos verificables y actualizables. 
 
