@@ -66,7 +66,7 @@ El Servicio de Información Agroalimentaria y Pesquera (SIAP), de acuerdo con su
 
 <br>
 
-En este conjunto de esfuerzos que han dado origen al Atlas Nacional de las Abejas y Derivados Apícolas, el INEGI funge en su calidad de organismo coordinador del Sistema Nacional de Información Estadística y Geográfica, con el fin de realizar las gestiones y el acopio de información necesario ante otras Unidades del Estado, asi como el diseño, sistematización, procesamiento, difusión y actualización de los datos del Atlas.
+En este conjunto de esfuerzos que han dado origen al Atlas Nacional de las Abejas y Derivados Apícolas, el INEGI funge en su calidad de organismo coordinador del Sistema Nacional de Información Estadística y Geográfica, al realizar las gestiones y el acopio de información necesario ante otras Unidades del Estado, así como el diseño, sistematización, procesamiento, difusión y actualización de los datos contenidos en el Atlas.
 
 </div>
 
