@@ -17,14 +17,14 @@ El **Atlas Nacional de las Abejas y Derivados Apícolas** integra la informació
 
 Este sitio compila, por primera vez, tanto información que ya se encuentra disponible en publicaciones y páginas web de las Unidades del Estado que colaboran en este proyecto, y de otros estudios relacionados, como datos que dichas unidades acordaron compartir con el INEGI, y que se han analizado y procesado para presentarse en forma dinámica, siendo resultado del trabajo en conjunto del personal del Instituto Nacional de Geografía y Estadística, Coordinación General de Ganadería, investigadores, académicos y especialistas apícolas de diversas instituciones como la FESC-UNAM, FMVZ-UNAM, Comité Nacional Sistema Producto Apícola y ANMVEA A.C.
 
-</br>	
-   
+</br>	  
+
 ## **Justificación**  
 
-
 Se presenta el _Atlas Nacional de las Abejas y Derivados Apícolas_, con la finalidad de tener un producto robusto y que sea punto de partida para detectar las necesidades de información sobre la apicultura en México, y con ello proveer de información que sea de utilidad para impulsar el desarrollo de esta importante actividad, de manera responsable y sustentable.
+	
 
-**Ambiental**
+### **Ambiental**
 
 El _Atlas Nacional de las Abejas y Derivados Apícolas_ surge de la necesidad de identificar la situación en que se encuentran estos insectos. El [_resumen para los responsables de la formulación de políticas del informe de evaluación de la Plataforma Intergubernamental Científico-normativa sobre Diversidad Biológica y Servicios de los Ecosistemas (IPBES, por sus siglas en inglés) sobre polinizadores, polinización y producción de alimentos_](pdfs/SPM_Pollination_ES.pdf){target="_blank"} de las Naciones Unidas,  advierte que el 40 % de los polinizadores invertebrados, en particular algunos tipos de abejas y mariposas, podrían estarse enfrentando, en este momento, a un proceso de extinción.
 
@@ -34,13 +34,13 @@ La zoopolinización desempeña una función vital como regulador de los ecosiste
 
 El _Atlas Nacional de las Abejas y Derivados Apícolas_ pretende contribuir en el estudio de las especies, en particular de este polinizador sumamente cotizado dada la riqueza de sus productos, a fin de que se difunda más información para promover la protección de la biodiversidad.
 
-**Económica**
+### **Económica**
 
 El papel de la abeja melífera occidental, _A. mellifera_, se vuelve preponderante debido a que es el polinizador gestionado de mayor diseminación en todo el planeta, en el cual existen alrededor de 81 millones de colmenas que, según estimaciones, producen anualmente 1.6 millones de toneladas de miel. México produce 59 mil toneladas de miel en promedio por año (periodo 2012-2021). En materia de exportaciones, para el año 2021 se enviaron al extranjero alrededor de 34 mil toneladas, que generaron un ingreso promedio de 125 millones de dólares. La apicultura proporciona, en este sentido, una importante fuente de ingresos para muchas personas, sobre todo en el ámbito rural.   
 
 En complemento a lo antes mencionado se muestra el siguiente video del 2014, en el que una tienda situada en Providence, Rhode Island, en los Estados Unidos, realiza un experimento muy interesante, retirando de sus anaqueles todos aquellos productos cuya existencia es posible gracias a la intervención de las abejas como polinizadores de sus cultivos. El resultado es muy impactante.
 
-</div>
+
 
 <br>
 
@@ -49,12 +49,12 @@ En complemento a lo antes mencionado se muestra el siguiente video del 2014, en 
 <iframe width="710" height="430" src="https://www.youtube.com/embed/aio9iKtkUxw" frameborder="0" allowfullscreen></iframe>
 
 </div>
-</br>
+
 </br>
 
-<div class=text-justify>
-   
-**Fundamento Legal** 
+
+ 
+### **Fundamento Legal**
 
 El Artículo 35 fracción V de la Ley Orgánica de la Administración Pública Federal, establece que dentro de las atribuciones de la Secretaría de Agricultura y Desarrollo Rural (SADER), se encuentra la de “procesar y difundir la información estadística y geográfica referente a la oferta y la demanda relacionados con el sector rural”, funciones que realiza el Servicio de Información Agroalimentaria y Pesquera (SIAP) en apego a lo señalado en el artículo 2, apartado B, fracción III del Reglamento Interior de la SADER; así como los artículos 2, fracciones I, IV, V, VI, XI, XVII; 8 fracción IX y 12 fracción III del Reglamento Interior del SIAP, permitiendo la generación de los datos oficiales del sector agroalimentario, lo que constituye un insumo esencial para la toma de decisiones, en atención a las necesidades de información que demanda la sociedad.
 
